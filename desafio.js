@@ -25,7 +25,7 @@ const productos = [
   {
     tipo: "guarnicion",
     nombre: "papas fritas con cheddar",
-    precio: 3500,
+    precio: 4500,
   },
 ];
 let carritoCompra = [];
